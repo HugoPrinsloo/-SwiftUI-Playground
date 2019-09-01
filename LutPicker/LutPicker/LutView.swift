@@ -23,6 +23,7 @@ struct LutView: View {
                     .foregroundColor(.white)
                 Text(lut.name)
                     .font(.headline)
+                    .foregroundColor(.black)
             }
             
         }

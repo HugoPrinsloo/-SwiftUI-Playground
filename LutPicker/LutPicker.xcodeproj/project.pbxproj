@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E4D7CA3231BF4B20085F857 /* LutPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4D7CA2231BF4B20085F857 /* LutPickerView.swift */; };
 		6E804542231BE838005CDAB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E804541231BE838005CDAB9 /* AppDelegate.swift */; };
 		6E804544231BE838005CDAB9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E804543231BE838005CDAB9 /* SceneDelegate.swift */; };
 		6E804546231BE838005CDAB9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E804545231BE838005CDAB9 /* ContentView.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6E4D7CA2231BF4B20085F857 /* LutPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LutPickerView.swift; sourceTree = "<group>"; };
 		6E80453E231BE838005CDAB9 /* LutPicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LutPicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E804541231BE838005CDAB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6E804543231BE838005CDAB9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				6E804541231BE838005CDAB9 /* AppDelegate.swift */,
 				6E804543231BE838005CDAB9 /* SceneDelegate.swift */,
 				6E804545231BE838005CDAB9 /* ContentView.swift */,
+				6E4D7CA2231BF4B20085F857 /* LutPickerView.swift */,
 				6E804559231BED1F005CDAB9 /* ScrollableLutView.swift */,
 				6E804555231BE85E005CDAB9 /* LutView.swift */,
 				6E804557231BE89C005CDAB9 /* Lut.swift */,
@@ -159,6 +162,7 @@
 				6E80455A231BED1F005CDAB9 /* ScrollableLutView.swift in Sources */,
 				6E804542231BE838005CDAB9 /* AppDelegate.swift in Sources */,
 				6E804558231BE89C005CDAB9 /* Lut.swift in Sources */,
+				6E4D7CA3231BF4B20085F857 /* LutPickerView.swift in Sources */,
 				6E804544231BE838005CDAB9 /* SceneDelegate.swift in Sources */,
 				6E804546231BE838005CDAB9 /* ContentView.swift in Sources */,
 			);
